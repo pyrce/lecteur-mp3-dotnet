@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dDmTOUb94my7L0akBw3ihMJloxQj8VMYdKbf2bbtzqiDZGkqAAsDTi1syy6Ze7ra0vZgOanwnXbPLo5//pliYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aaron\\source\\repos\\lecteurmp3-dotnet\\lecteurmp3-dotnet\\lecteurmp3-dotnet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aaron\\.nuget\\packages\\taglibsharp\\2.2.0\\taglibsharp.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
